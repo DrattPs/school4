@@ -1,0 +1,79 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.font-size {
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.main-font-size {
+    font-size: 21px;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+
+.bg {
+    height: 60px;
+}
+
+#frst-img {
+    z-index: 1;
+    width: 100%;
+}
+
+#s1 {
+    height: 1300px;
+}
+
+#auditorium {
+    height: 400px;
+    margin-bottom: 0px;
+    float: right;
+    width: 430px;
+}
+
+#campus-life {
+    height: 800px;
+    border-width:10px ;
+}
+
+#img3 {
+    margin-top: 0px;
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+.img4 {
+    padding: 5px;
+}
+#img4{
+    width:794px;
+}
+#newtext{
+    margin-top:0px;
+}
+#new{
+    height:700px;
+}
+#news{
+    height:460px;
+    width:100%;
+    border-radius: 20px;
+}
+#reader{
+    border-radius: 60px;
+}
+.new-description{
+font-size:20px;
+
+}
+#contact{
+    height:500px;
+    width:100%;
+    margin-bottom:20px;
+}
+.principal-contact{
+    font-size:20px;
+   margin-bottom:100px;
+}
